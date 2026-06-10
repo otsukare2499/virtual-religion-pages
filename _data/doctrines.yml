@@ -1,0 +1,8 @@
+- id: 0
+  text: "sample chapter 1"
+  tenets:
+    - id: 0
+      text : "sample tenet 1"
+    - id: 1
+      text : "sample tenet 2"
+  
