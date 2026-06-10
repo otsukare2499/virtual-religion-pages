@@ -1,2 +1,9 @@
+theme: jekyll-theme-primer
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
 organization: "サイ教"
 maintainer: "お疲れ"
